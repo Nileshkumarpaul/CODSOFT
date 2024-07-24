@@ -5,8 +5,7 @@ Welcome to the repository for my Java internship tasks completed using Visual St
 ## Table of Contents
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- 
+- [Technologies Used](#technologies-used) 
 ## Introduction
 This repository contains the tasks I completed during my Java internship using Visual Studio Code. Each task was designed to enhance my understanding and proficiency in Java programming.
 #Task 01 NUMBER_GAME .
